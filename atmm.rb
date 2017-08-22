@@ -9,6 +9,7 @@ $Trans_List = [
 
 
 def startscreen
+  system 'cls'
   puts '='*80
   puts " "
   puts "Welcome BPI".center(80, " ")
